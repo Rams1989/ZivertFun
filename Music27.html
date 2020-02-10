@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>audio</title>
+ <style>
+    @import url('https://fonts.googleapis.com/css?family=PT+Sans+Caption');
+#navbar {
+  list-style: none;
+  padding: 0 30px;
+  margin: 0;
+  font-size: 18px;
+  text-align: center;
+  position: relative;
+  background: white;
+}
+#navbar:after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 20px;
+  left: 0;
+  bottom: -20px;
+  background: radial-gradient(white 0%, white 70%, rgba(255,255,255,0) 70%, rgba(255,255,255,0) 100%) 0 -10px;
+  background-size: 20px 20px;
+  background-repeat: repeat-x;
+}
+#navbar li {display: inline-block;}
+#navbar a {
+  text-decoration: none;
+  display: inline-block;
+  margin: 0 15px;
+  padding: 10px 30px;
+  font-family: 'PT Sans Caption', sans-serif;
+  color: #777777;
+  transition: .3s linear;
+  position: relative;
+}
+#navbar a:before,
+#navbar a:after {
+  content: "";
+  position: absolute;
+  top: calc(50% - 3px);
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #F58262;
+  opacity: 0;
+  transition: .5s ease-in-out;
+}
+#navbar a:before {left: 5px;}
+#navbar a:after {right: 5px;}
+#navbar a.current:before,
+#navbar a.current:after,
+#navbar a:hover:before, 
+#navbar a:hover:after {opacity: 1;}
+#navbar a.current,
+#navbar a:hover {color: #F58262;}
+@media(max-width:680px) {
+  .#navbar li {display: block;}
+}  
+  
+
+	</style>
+ <style>
+    body {
+    background: #c7b39b url(https://www.artleo.com/large/201907/484424.jpg); /* Цвет фона и путь к файлу */
+    color: #; /* Цвет текста */
+   background-size: 1920px 1080px;
+   }
+  
+  </style>
+ <style>
+  p {color: #FFFFFF}
+</style>
+ </head>
+ <body>
+  <center>
+ <ul id="navbar">
+      <li><a href="file:///C:/Users/User/Desktop/Music27.html">Песни</a></li>
+      <li><a href="file:///C:/Users/User/Desktop/Clip8.html">Клипы</a></li>
+      <li><a href="file:///C:/Users/User/Desktop/biogafy84.html">Биография</a></li>
+      <li><a href="">Контакты</a></li>
+	</ul>
+  <center>
+  <p>Зеленые волны</p>
+  <audio controls>
+    <source src="https://dl2.mp3party.net/online/8613212.mp3" type="audio/ogg; codecs=vorbis">
+    <source src="https://dl2.mp3party.net/online/8613212.mp3" type="audio/mpeg">
+    
+    <a href="https://dl2.mp3party.net/online/8613212.mp3">Скачайте музыку</a>.
+  </audio>
+ <p>Kredo</p>
+  <audio controls>
+    <source src="https://dl2.ru-music.xn--41a.ws/mp3/3801.mp3" type="audio/ogg; codecs=vorbis">
+    <source src="https://dl2.ru-music.xn--41a.ws/mp3/3801.mp3" type="audio/mpeg">
+    
+    <a href="https://dl2.ru-music.xn--41a.ws/mp3/3801.mp3">Скачайте музыку</a>.
+  </audio>
+
+ <p>Life</p>
+  <audio controls>
+    <source src="https://dl2.ru-music.xn--41a.ws/mp3/3371.mp3 " type="audio/ogg; codecs=vorbis">
+    <source src="https://dl2.ru-music.xn--41a.ws/mp3/3371.mp3 " type="audio/mpeg">
+    
+    <a href="https://dl2.ru-music.xn--41a.ws/mp3/3371.mp3 ">Скачайте музыку</a>.
+  </audio>
+ </center>
+ </body>
+</html>
+
+
+                    
+
