@@ -59,18 +59,15 @@
 @media(max-width:680px) {
   .#navbar li {display: block;}
 }  
-  
-
-	</style>
- <style>
+</style>
+<style>
 body {
     background: #c7b39b url(Rams1989/ZivertFun/blob/master/cc30676d24039eb358999a09b74fba77.png); /* Цвет фона и путь к файлу */
     color: #; /* Цвет текста */
    background-size: 1920px 1080px;			
-   }
+ }
    </style>
-
- </head>
+</head>
 <body>
  <center>
  <ul id="navbar">
@@ -79,8 +76,6 @@ body {
       <li><a href="file:///C:/Users/User/Desktop/biogafy84.html">Биография</a></li>
       <li><a href="">Контакты</a></li>
 	</ul>
-
-  
 </nav>
 </body>
 </html>
