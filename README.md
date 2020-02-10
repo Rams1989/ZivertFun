@@ -64,7 +64,7 @@
 	</style>
  <style>
 body {
-    background: #c7b39b url(https://github.com/Rams1989/ZivertFun/blob/master/484424.jpg); /* Цвет фона и путь к файлу */
+    background: #c7b39b url(484424.jpg); /* Цвет фона и путь к файлу */
     color: #; /* Цвет текста */
    background-size: 1920px 1080px;			
    }
@@ -79,8 +79,6 @@ body {
       <li><a href="file:///C:/Users/User/Desktop/biogafy84.html">Биография</a></li>
       <li><a href="">Контакты</a></li>
 	</ul>
-
-  
 </nav>
 </body>
 </html>
