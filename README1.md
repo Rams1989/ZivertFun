@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html>
- <head>
-  <meta charset="utf-8">
+<html>   
+ <head>   
+  <meta charset="utf-8">  
   <title>Клипы</title>
  <style>
  #navbar {
   list-style: none;
   padding: 0 30px;
-  margin: 0;
+  margin: 0;        
   font-size: 18px;
   text-align: center;
   position: relative;
@@ -75,7 +75,7 @@ body {
   <center>
  <ul id="navbar">
       <li><a href="file:///C:/Users/User/Desktop/Music27.html">Песни</a></li>
-      <li><a href="file:///C:/Users/User/Desktop/Clip8.html">Клипы</a></li>
+      <li><a href="https://github.com/Rams1989/ZivertFun/blob/master/README1.md">Клипы</a></li>
       <li><a href="file:///C:/Users/User/Desktop/biogafy84.html">Биография</a></li>
       <li><a href="">Контакты</a></li>
 	</ul>
