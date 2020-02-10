@@ -75,7 +75,7 @@ body {
  <center>
  <ul id="navbar">
       <li><a href="file:///C:/Users/User/Desktop/Music27.html">Песни</a></li>
-      <li><a href="file:///C:/Users/User/Desktop/Clip8.html">Клипы</a></li>
+      <li><a href="https://github.com/Rams1989/ZivertFun/blob/master/1Clip8.html">Клипы</a></li>
       <li><a href="file:///C:/Users/User/Desktop/biogafy84.html">Биография</a></li>
       <li><a href="">Контакты</a></li>
 	</ul>
