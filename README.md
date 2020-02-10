@@ -64,7 +64,7 @@
 	</style>
  <style>
 body {
-    background: #c7b39b url(https://www.cosmonavt.su/uploads/artists/763/cc30676d24039eb358999a09b74fba77.png); /* Цвет фона и путь к файлу */
+    background: #c7b39b url(https://github.com/Rams1989/ZivertFun/blob/master/484424.jpg); /* Цвет фона и путь к файлу */
     color: #; /* Цвет текста */
    background-size: 1920px 1080px;			
    }
